@@ -1,3 +1,4 @@
 git init
-git add . 
-git commit –m “The first commit”
+git add Experts
+git add.
+git commit -m "Primer Commit"
